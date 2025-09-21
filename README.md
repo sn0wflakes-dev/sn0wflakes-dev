@@ -1,2 +1,2 @@
-# Carbeat Engineer - Specialized in Claiming Waifu (Carbeat)
+# Carbeat Engineer - Specialized in Claiming Waifu
 
