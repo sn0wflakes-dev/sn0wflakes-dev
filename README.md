@@ -5,7 +5,7 @@
 
 - System Engineer at Abdi Jaya Integra
 - I do Backend with Golang, Springboot and Hono-Bun
-- Love to fishing, watch anime and code.
+- Enjoy fishing, watching anime, and coding
 - I'm big fan of Ado and Kasane Teto 🥰
 
 ### 💻 Tech Stack: Backend
