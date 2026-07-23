@@ -5,17 +5,17 @@
           :-:      ....    ...                             sn0wflakes@sn0w 
          .----      :::.  .:::                             ------------------ 
            ----      :::..:::                              Self --————————————————--
-       ....:----......::::::                               Name:................. Abdurrahman Ali
-     .................. :::.   .---                        Nickname:............. S0wflakes
-           .::.          .::. .---:                        Location:............. Indonesia/Java
-          :::.            .:.:---:                         Pronounce:............ He/Him
+       ....:----......::::::                               Name: Abdurrahman Ali
+     .................. :::.   .---                        Nickname: S0wflakes
+           .::.          .::. .---:                        Location: Indonesia/Java
+          :::.            .:.:---:                         Pronounce: He/Him
   ::::::::::.              .:---------.                    Skills --————————————————--
-  :::::::::..              -----------.                    Language:............. Java, C++, GO, Rust, Python, TS
-       :::.---            ----.                            Domain:............... SWE (Backend and ML)
-     .:::. ----          ----                              Framework:............ Springboot, BoostBeast, Fiber, Actix/Axum, FastAPI, Hono
+  :::::::::..              -----------.                    Language: Java, C++, GO, Rust, Python, TS
+       :::.---            ----.                            Domain: SWE (Backend and ML)
+     .:::. ----          ----                              Framework: Springboot, BoostBeast, Fiber, Actix/Axum, FastAPI, Hono
      .::.   ----.       ....                               Misc --————————————————--
-      :      ----.::::::::::::::::                         OS:................... NixOS, Windows
-            ------.     ::::.                              Idol:................. Ado, Kasane Teto, Terry A Davis, Linus Torvalds and Bjarne Stroustrup
+      :      ----.::::::::::::::::                         OS: NixOS, Windows
+            ------.     ::::.                              Idol: Ado, Kasane Teto, Terry A Davis, Linus Torvalds and Bjarne Stroustrup
            --------.     .:::           
          .----  :---:     .:::          
           :-:    :---:     ...          
