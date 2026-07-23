@@ -1,14 +1,14 @@
-<h1 align="center">Hi I'm Sn0wFlakeS - Backend Developer</h1>
+<h2 align="center">Hi I'm Sn0wFlakeS - Backend Developer</h1>
 
-```bash
+```markdown
                                         
-          :-:      ....    ...                       sn0wflakes@nixos 
-         .----      :::.  .:::                       -------------- 
-           ----      :::..:::                        OS: NixOS and Windows 
-       ....:----......::::::                         Language: Java, C++, GO, and TS
-     .................. :::.   .---                  Framework: Springboot, Fiber, Hono and Nest
-           .::.          .::. .---:                  Idol: Ado and Kasane Teto 💮
-          :::.            .:.:---:      
+          :-:      ....    ...                             sn0wflakes@sn0w 
+         .----      :::.  .:::                             ------------------ 
+           ----      :::..:::                              OS:............... NixOS and Windows
+       ....:----......::::::                               Language:......... Java, C++, GO, and TS
+     .................. :::.   .---                        Framework:........ Springboot, Fiber, Hono and Nest
+           .::.          .::. .---:                        Idol:............. Ado and Kasane Teto 💮
+          :::.            .:.:---:                         
   ::::::::::.              .:---------. 
   :::::::::..              -----------. 
        :::.---            ----.         
