@@ -1,4 +1,4 @@
-<h2 align="center">Hi I'm sn0wFlakes - Backend Developer</h1>
+<h2 align="center">Hi I'm sn0wflakes - Backend Developer</h1>
 
 ```markdown
                                         
